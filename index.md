@@ -6,6 +6,7 @@
 ## Introducción y mini explicación de los biosensores
 
 ## Desarrollo del prototipo
+![](https://files.slack.com/files-pri/T015712DGEA-F018N90UB62/image.png)
 ![](https://i.makeagif.com/media/5-15-2016/FTkKht.gif)
 
 ## ¿por qué es mejor?
